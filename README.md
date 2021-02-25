@@ -1,2 +1,2 @@
 # courses
-Random things needed for online courses. :-)
+Random things needed for online courses. 😃
