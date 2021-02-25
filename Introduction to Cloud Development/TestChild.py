@@ -1,2 +1,2 @@
-## Adding a new file in Child_Branch
-print("Hello from the Child_Branch!")
+## Updating a file from a clone
+print("Hello from the Working with Git on Theia Lab")
